@@ -4,7 +4,7 @@
 This project presents a comprehensive data analysis of a coffee shop chain's operations over a 6-month period (January to June). Using **Microsoft Excel**, I transformed a dataset of **149,116 sales transactions** into an interactive dashboard to identify operational trends, peak hours, and product performance across three main locations.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](your-image-link-here.png)
+![Coffee Shop Dashboard](dashboard.png)
 *Note: Add your dashboard screenshot here to make the project visually appealing.*
 
 ## 🛠️ Tools & Techniques
