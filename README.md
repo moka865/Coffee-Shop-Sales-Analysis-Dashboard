@@ -31,5 +31,5 @@ This project presents a comprehensive data analysis of a coffee shop chain's ope
 4. Use the **Interactive Slicers** to filter the data by Store Location or Month to see how the insights change.
 
 ---
-**Developed by:** [Your Name Here]
-**Connect with me on [LinkedIn](your-linkedin-link-here)**
+**Developed by:** [Ahmed Ashraf]
+**Connect with me on [LinkedIn]([your-linkedin-link-here](https://www.linkedin.com/in/ahmed-ashraf-326075289/))**
