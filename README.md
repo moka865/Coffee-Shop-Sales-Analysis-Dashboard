@@ -5,7 +5,7 @@ This project presents a comprehensive data analysis of a coffee shop chain's ope
 
 ## 📸 Dashboard Preview
 ![Coffee Shop Dashboard](dashboard.png)
-*Note: Add your dashboard screenshot here to make the project visually appealing.*
+*Note: Make sure to upload your screenshot as 'dashboard.png' in the same repository.*
 
 ## 🛠️ Tools & Techniques
 - **Data Cleaning:** Handled dates, times, and categorical data for over 149K rows.
@@ -22,7 +22,7 @@ This project presents a comprehensive data analysis of a coffee shop chain's ope
 
 ## 📂 Repository Content
 - `Coffee_Sales_Analysis.xlsx`: The complete Excel workbook including raw data, pivot tables, and the final dashboard.
-- `Screenshots/`: A folder containing images of the dashboard for quick preview.
+- `dashboard.png`: A screenshot of the final interactive visual report.
 
 ## 🚀 How to Explore the Project
 1. Clone this repository or download the `.xlsx` file.
@@ -31,5 +31,5 @@ This project presents a comprehensive data analysis of a coffee shop chain's ope
 4. Use the **Interactive Slicers** to filter the data by Store Location or Month to see how the insights change.
 
 ---
-**Developed by:** [Ahmed Ashraf]
-**Connect with me on [LinkedIn]([your-linkedin-link-here](https://www.linkedin.com/in/ahmed-ashraf-326075289/))**
+**Developed by:** Ahmed Ashraf
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-ashraf-326075289/)**
